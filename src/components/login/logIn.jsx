@@ -25,7 +25,7 @@ function LogIn() {
           color="white"
           padding={3}
         >
-          Feedback-Form new
+          Feedback-Form
         </Typography>
         <Typography
           color="white"
